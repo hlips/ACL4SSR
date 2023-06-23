@@ -1,2 +1,30 @@
+# 贴吧
 DOMAIN-KEYWORD,tieba
+
+# 知乎
 DOMAIN-KEYWORD,zhihu
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,zhimg.com
+
+# 微博
+DOMAIN-SUFFIX,sina.com
+DOMAIN-SUFFIX,sina.com.cn
+DOMAIN-SUFFIX,sina.cn
+DOMAIN-SUFFIX,sinaapp.com
+DOMAIN-SUFFIX,sinaapp.cn
+DOMAIN-SUFFIX,sinaimg.com
+DOMAIN-SUFFIX,sinaimg.cn
+DOMAIN-SUFFIX,weibo.com
+DOMAIN-SUFFIX,weibo.cn
+DOMAIN-SUFFIX,weibocdn.com
+DOMAIN-SUFFIX,weibocdn.cn
+DOMAIN-SUFFIX,sinajs.cn
+
+# 小红书
+DOMAIN-KEYWORD,xiaohongshu
+DOMAIN-SUFFIX,xiaohongshu.com
+
+# 小黑盒
+DOMAIN-KEYWORD,xiaoheihe
+DOMAIN-SUFFIX,maxjia.com
+DOMAIN-SUFFIX,xiaoheihe.cn
