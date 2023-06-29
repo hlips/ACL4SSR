@@ -1,11 +1,16 @@
 # 贴吧
-DOMAIN-KEYWORD,tieba
+DOMAIN,tieba.baidu.com
+DOMAIN,tbmsg.baidu.com
+DOMAIN,tb5.bdstatic.com
+DOMAIN,fclog.baidu.com
+DOMAIN,gsp0.baidu.com
 
 # 知乎
 DOMAIN-KEYWORD,zhihu
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
 DOMAIN,pic1.zhimg.com
+IP-CIDR,103.41.167.0/24,no-resolve
 
 # 微博
 DOMAIN-KEYWORD,weibo
@@ -34,3 +39,12 @@ DOMAIN-KEYWORD,heybox
 DOMAIN-SUFFIX,maxjia.com
 DOMAIN-SUFFIX,xiaoheihe.cn
 DOMAIN-SUFFIX,max-c.com
+
+# 微信
+DOMAIN,szextshort.weixin.qq.com
+DOMAIN,szminorshort.weixin.qq.com
+DOMAIN,mp.weixin.qq.com
+DOMAIN,szshort.weixin.qq.com
+
+# 国家反诈中心
+DOMAIN-SUFFIX,gjfzpt.cn,REJECT
