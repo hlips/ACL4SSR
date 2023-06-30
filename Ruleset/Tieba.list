@@ -1,9 +1,11 @@
 # 贴吧
 DOMAIN,tieba.baidu.com
+DOMAIN,passport.baidu.com
 DOMAIN,tbmsg.baidu.com
-DOMAIN,tb5.bdstatic.com
+DOMAIN-SUFFIX,bdstatic.com
 DOMAIN,fclog.baidu.com
 DOMAIN,gsp0.baidu.com
+DOMAIN,xlab.baidu.com
 
 # 知乎
 DOMAIN-KEYWORD,zhihu
@@ -45,6 +47,7 @@ DOMAIN,szextshort.weixin.qq.com
 DOMAIN,szminorshort.weixin.qq.com
 DOMAIN,mp.weixin.qq.com
 DOMAIN,szshort.weixin.qq.com
+DOMAIN-SUFFIX,weixin.qq.com
 
 # 国家反诈中心
 DOMAIN-SUFFIX,gjfzpt.cn,REJECT
